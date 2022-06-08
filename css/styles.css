@@ -12,7 +12,7 @@
   color: var(--primary-color);
 }
 
-#fade1 {
+#fade {
   position: fixed;
   top: 0;
   left: 0;
@@ -25,16 +25,16 @@
   z-index: 10;
 }
 
-#fade1 .spinner-border {
+#fade .spinner-border {
   width: 60px;
   height: 60px;
 }
 
-.hide1 {
+.hide {
   display: none !important;
 }
 
-#message1 {
+#message {
   width: 40%;
 }
 
